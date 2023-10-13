@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "image": "balloon-ride.svg",
+      "description": "Experience a balloon ride, enjoying the scenic views."
+    },
+    {
+      "id": 2,
+      "image": "basketball.svg",
+      "description": "Shoot some hoops, get active on the court."
+    },
+    {
+      "id": 3,
+      "image": "beer.svg",
+      "description": "Relax and enjoy a beer with a friend."
+    },
+    {
+      "id": 4,
+      "image": "bike.svg",
+      "description": "Enjoy the breeze as you cycle through scenic trails or the city."
+    },
+    {
+      "id": 5,
+      "image": "cards.svg",
+      "description": "Engage in a friendly card game, be it solitaire or with friends."
+    },
+    {
+      "id": 6,
+      "image": "code.svg",
+      "description": "Dive into coding, challenge your logic, and create something amazing."
+    },
+    {
+      "id": 7,
+      "image": "couch.svg",
+      "description": "Take a moment to lounge on your couch, with a good book or some music."
+    },
+    {
+      "id": 8,
+      "image": "dog.svg",
+      "description": "Spend quality time with your furry friend, maybe a walk in the park."
+    },
+    {
+      "id": 9,
+      "image": "fair.svg",
+      "description": "Visit a fair, and enjoy the festive rides and games."
+    },
+    {
+      "id": 10,
+      "image": "games.svg",
+      "description": "Lose track of time with an engaging video game."
+    },
+    {
+      "id": 11,
+      "image": "goal.svg",
+      "description": "Go for a kick about in the park."
+    },
+    {
+      "id": 12,
+      "image": "golf.svg",
+      "description": "Play a round of golf, enjoying the outdoors and the challenge of each hole."
+    },
+    {
+      "id": 13,
+      "image": "hang.svg",
+      "description": "Hang out with friends or family, share laughter and create memories."
+    },
+    {
+      "id": 14,
+      "image": "hike.svg",
+      "description": "Embark on a hike, exploring nature's & a good workout."
+    },
+    {
+      "id": 15,
+      "image": "kite.svg",
+      "description": "Fly a kite, feeling the wind's push and the freedom of the open sky."
+    },
+    {
+      "id": 16,
+      "image": "meditate.svg",
+      "description": "Find inner peace by meditating, focusing on your breathing and clearing your mind."
+    },
+    {
+      "id": 17,
+      "image": "movie.svg",
+      "description": "Watch a movie, be it an old favorite or a new release."
+    },
+    {
+      "id": 18,
+      "image": "nature.svg",
+      "description": "Connect with nature, taking in its beauty and lifting your spirit."
+    },
+    {
+      "id": 19,
+      "image": "park.svg",
+      "description": "Visit a park, enjoy a picnic, or simply relax on the grass."
+    },
+    {
+      "id": 20,
+      "image": "read.svg",
+      "description": "Lose yourself in a good book, traveling to distant lands or learning something new."
+    },
+    {
+      "id": 21,
+      "image": "run.svg",
+      "description": "Go for a run, feeling the rhythm of your feet and the exhilaration of speed."
+    },
+    {
+      "id": 22,
+      "image": "tea.svg",
+      "description": "Sip on some tea, letting its warmth and flavors calm you."
+    },
+    {
+      "id": 23,
+      "image": "trip.svg",
+      "description": "Plan a trip, whether a grand adventure or a local getaway."
+    },
+    {
+      "id": 24,
+      "image": "walk.svg",
+      "description": "Take a leisurely walk, letting your thoughts wander and enjoy the surroundings."
+    },
+    {
+      "id": 25,
+      "image": "wine.svg",
+      "description": "Relax with a glass of wine, savoring its notes and the moment."
+    },
+    {
+      "id": 26,
+      "image": "workout.svg",
+      "description": "Engage in a workout, pushing your limits and releasing endorphins."
+    }
+  ]
