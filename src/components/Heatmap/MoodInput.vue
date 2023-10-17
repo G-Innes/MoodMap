@@ -63,8 +63,8 @@
     { label: 'Angry', value: '#f43800' }
   ];
   // Validation for mood note
-  const isMoodNoteValid = (): boolean => {
-    if (moodNote.value.trim() === '') {
+  const isMoodNoteValid = (note: string): boolean => {
+    if (note.trim() === '') {
       Swal.fire({
         icon: 'error',
         title: 'Oops...',
@@ -72,7 +72,7 @@
       });
       return false;
     }
-    if (moodNote.value.length > 40) {
+    if (note.length > 40) {
       Swal.fire({
         icon: 'error',
         title: 'Oops...',
@@ -84,7 +84,7 @@
   };
 
   const saveMood = (): void => {
-    if (!isMoodNoteValid()) return;
+    if (!isMoodNoteValid(moodNote.value)) return;
     // calls setMood method to save mood if validation checks are passed
     if (selectedDate.value && selectedColor.value) {
       moodStore.setMood(selectedDate.value, selectedColor.value, moodNote.value);
@@ -95,6 +95,8 @@
       moodNote.value = '';
     }
   };
+
+
 </script>
 
 <style scoped>
