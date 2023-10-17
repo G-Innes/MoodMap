@@ -1,7 +1,7 @@
 import { isMoodNoteValid } from './componentTests'
 import { describe, expect, it } from 'vitest'
 
-
+// MoodInput Tests //
 describe('isMoodNoteValid', () => {
     it('should return false if mood note is empty', () => {
       const result = isMoodNoteValid('');
